@@ -1,0 +1,70 @@
+ body {
+   color:aliceblue;
+   background-color: black;
+   margin: 0px;
+   font-family: "Roboto", sans-serif;
+   margin-bottom: 100px;
+ }
+
+ header {
+    border-bottom: solid 2px rgb(42, 122, 228);
+    padding: 20px;
+    font-size: 32px;
+    color: rgb(42, 122, 228);
+ }
+      .chamada {    
+        background: rgb(65, 177, 211);
+        padding-bottom: 80px;
+        padding-top: 80px;
+        display: flex;
+        justify-content:center;
+
+
+      }
+
+      .chamada-texto {
+        margin-right: 5%;
+      }
+      h1{
+        font-size: 40px;
+      }
+
+      p{
+        font-size: 20px;
+      }
+      img{
+        height: 200px;
+        }
+        .categoria-videos{
+          display:flex;
+          overflow-x:auto;
+          gap: 10px;
+        }
+
+        .categoria {
+          padding-left: 20px;
+          padding-right: 20px;
+          margin-top: 50px;
+        }
+
+  .categoria-videos img{
+    opacity:0.5;
+    height: 200px;
+  }
+
+  .categoria-videos img:hover {
+    opacity: 1.0;
+    border: 1px solid green;
+  }
+
+  .categoria h2 {
+    color:rgb(42, 122, 228);
+  }
+  
+
+ 
+ https://www.youtube.com/watch?v=GQNKiNQxx58
+ https://www.youtube.com/watch?v=AulS7GiJ8Bw
+ https://www.youtube.com/watch?v=dvbtDJKGPyo
+ https://www.youtube.com/watch?v=jIyXDs-6w7k
+ https://www.youtube.com/watch?v=H4ZRej5W_uI
